@@ -84,4 +84,4 @@ The workflow uses packages including:
 
 ## Notes
 
-This is an initial cleanup pass. The next useful step is to add a dependency file, such as `renv.lock`, once the package versions used for the manuscript figures are finalized.
+Large genomic input files are not included in this repository. To reproduce the workflow, place the required input files in the project root using the file names listed above, then run the scripts in the order shown. Generated tables are written to `analysis_outputs/`, generated figures are written to `figures/`, and the final manuscript metadata table is written to `manuscript_sample_metadata.csv`.
