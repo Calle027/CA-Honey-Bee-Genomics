@@ -1,0 +1,24 @@
+# R and local state
+.Rhistory
+.RData
+.Rproj.user/
+
+# Generated outputs
+analysis_outputs/
+figures/
+
+# Large genomic inputs and intermediate files
+*.gds
+*.vcf
+*.vcf.gz
+*.bcf
+*.bam
+*.bai
+*.bed
+*.bim
+*.fam
+*.Q
+*.windowed.pi
+
+# Office temporary files
+~$*

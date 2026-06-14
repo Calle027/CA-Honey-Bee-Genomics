@@ -1,0 +1,337 @@
+sample_id,species,population,subspecies,city_region,country,lat,long,western_hemisphere,coverage,relatedness,inbreeding,PC1,PC2,cluster
+1369A_A,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,17.0878,Related,0.109083744,-0.069637628,0.052163096,1
+1369A_B,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,19.1656,Unrelated,0.155102086,-0.07723458,0.062405154,1
+1369A_C,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,19.868,Related,0.095641282,-0.069817787,0.05059812,1
+352_A,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,15.0481,Related,0.326552764,-0.096919615,0.05255661,1
+352_B,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,16.4653,Related,0.290704828,-0.093926548,0.06316942,1
+352_C,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,16.9417,Unrelated,0.29159138,-0.096273685,0.066295934,1
+451_A,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,23.5038,Unrelated,0.289212105,-0.096217301,0.067546485,1
+451_B,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,21.0836,Related,0.362510295,-0.096054472,0.067168904,1
+451_C,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,16.0831,Related,0.316573772,-0.096172783,0.06119514,1
+454_A,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,20.2212,Related,0.315343987,-0.096130281,0.07120824,1
+454_B,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,18.9535,Unrelated,0.29712348,-0.097193571,0.072263095,1
+454_C,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,18.626,Related,0.31148986,-0.094812114,0.071633832,1
+Aada_bur2,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,73.4224,Unrelated,0.104919004,0.054609853,-0.015143648,7
+Aada_bur4,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,72.3128,Unrelated,0.108509841,0.055526542,-0.014517888,7
+Aada_bur5,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,68.0057,Unrelated,0.106689861,0.053161719,-0.014872772,7
+Aada_bur6,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,64.5584,Related,0.09976376,0.053161465,-0.013844178,7
+Aada_bur7,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,73.6366,Unrelated,0.105713083,0.054007133,-0.01502799,7
+Aada_bur8,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,73.4588,Unrelated,0.115890229,0.05334872,-0.01437873,7
+Aada_bur9,A. mellifera,A,A. m. adansonii,Kurkina,Burkina Faso,12.470377,-1.698263,N,74.0007,Unrelated,0.098887778,0.054342337,-0.014659069,7
+Aada_se401,A. mellifera,A,A. m. adansonii,,Senegal,14.494236,-14.484993,N,74.679,Unrelated,0.140825905,0.050493416,-0.01302481,7
+Acap_178,A. mellifera,A,A. m. capensis,Robben Island,South Africa,-33.810235,18.379193,N,63.7955,Unrelated,0.14165518,0.056399983,-0.005781138,2
+Acap_182,A. mellifera,A,A. m. capensis,Heidelburg,South Africa,-26.480596,28.372716,N,57.7538,Unrelated,0.111102345,0.059673328,-0.007301147,2
+Acap_188,A. mellifera,A,A. m. capensis,Somerset West,South Africa,-34.072416,18.846672,N,65.4074,Unrelated,0.110769983,0.059225141,-0.007420011,2
+Acap_189,A. mellifera,A,A. m. capensis,Cederberg,South Africa,-32.19672,18.704486,N,23.7455,Unrelated,0.117604337,0.058893315,-0.00647044,2
+Acap_84,A. mellifera,A,A. m. capensis,West Coast NP,South Africa,-33.246843,18.200693,N,25.3057,Unrelated,0.233042607,0.055510211,-0.004769923,2
+Acauca_529,A. mellifera,O,A. m. caucasica,Posov,Turkey,41.49983,42.728312,N,47.7622,Unrelated,0.711465106,-0.033107349,0.139952542,3
+Acauca_819,A. mellifera,O,A. m. caucasica,Ardahan,Turkey,41.110416,42.701216,N,64.3401,Unrelated,0.699565598,-0.032360058,0.13886746,3
+Acauca_821,A. mellifera,O,A. m. caucasica,Ardahan,Turkey,41.110416,42.701216,N,53.1365,Unrelated,0.685062191,-0.032614141,0.138145024,3
+Acauca527,A. mellifera,O,A. m. caucasica,Posov,Turkey,41.49983,42.728312,N,53.4351,Unrelated,0.719419065,-0.032655678,0.140130217,3
+Acauca530,A. mellifera,O,A. m. caucasica,Posov,Turkey,41.49983,42.728312,N,55.5337,Unrelated,0.717608951,-0.032849926,0.140052815,3
+AiberCord1_4,A. mellifera,M,A. m. iberiensis,Cordoba,Spain,37.887723,-4.77964,N,79.4775,Unrelated,0.604599622,-0.108391103,-0.163733441,4
+AiberCord2_1,A. mellifera,M,A. m. iberiensis,Cordoba,Spain,37.887723,-4.77964,N,58.7735,Unrelated,0.607778627,-0.107731684,-0.162481991,4
+AiberCord2_3,A. mellifera,M,A. m. iberiensis,Cordoba,Spain,37.887723,-4.77964,N,69.0631,Unrelated,0.599315082,-0.107792648,-0.162600895,4
+AiberLugo1_2,A. mellifera,M,A. m. iberiensis,Lugo,Spain,43.000978,-7.551094,N,34.1555,Unrelated,0.622623613,-0.110636239,-0.163830276,4
+Aint_902,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,53.5817,Unrelated,0.178813945,0.014142018,-0.058410527,5
+Aint_903,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,55.006,Unrelated,0.198805357,0.016514855,-0.0553235,5
+Aint_907,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,61.7047,Unrelated,0.17521013,0.016509808,-0.056651805,5
+Aint_908,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,48.3446,Related,2.75E-11,0.021912606,-0.056337511,5
+Aint_914,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,42.641,Unrelated,0.185116699,0.015679481,-0.057148133,5
+Aint_915,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,57.3491,Unrelated,0.181955663,0.016803541,-0.057905943,5
+Aint_916,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,45.5415,Unrelated,0.178419415,0.014337001,-0.057569061,5
+Aint_918,A. mellifera,A,A. m. intermissa,Asilah,Morocco,32.861448,-5.219838,N,60.848,Unrelated,0.182301996,0.016860561,-0.055530776,5
+Aint_mo29,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,42.5474,Unrelated,0.176745006,0.021501679,-0.050510338,5
+Aint_mo40,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,47.1858,Unrelated,0.163491623,0.020871728,-0.051882911,5
+Aint_mo42,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,43.3185,Unrelated,0.151884276,0.021729859,-0.051682947,5
+Aint_mo43,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,52.1399,Unrelated,0.150942284,0.018997473,-0.053950722,5
+Aint_mo46,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,49.1063,Unrelated,0.142369452,0.019237983,-0.052511356,5
+Aint_mo82,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,47.8031,Unrelated,0.173363191,0.023190801,-0.049802843,5
+Aint_mo83,A. mellifera,A,A. m. intermissa,,Morocco,32.861448,-5.219838,N,51.9624,Unrelated,0.201676906,0.023592506,-0.048904339,5
+Alamark1,A. mellifera,A,A. m. scutellata,Gete Ruins,Kenya,-3.311134,40.017936,N,56.6056,Unrelated,0.406009456,0.064664433,-0.006028992,7
+Alamark2,A. mellifera,A,A. m. scutellata,Gete Ruins,Kenya,-3.311134,40.017936,N,55.8082,Unrelated,0.086848065,0.060323583,-0.007288305,2
+Alamark4,A. mellifera,A,A. m. scutellata,Mandera Town,Kenya,3.934086,41.855199,N,69.269,Related,0.089387865,0.058086604,-0.006394773,2
+Alamark5,A. mellifera,A,A. m. scutellata,Mandera Town,Kenya,3.934086,41.855199,N,71.0342,Related,0.090073128,0.058570923,-0.007296789,2
+Alamark6,A. mellifera,A,A. m. scutellata,Mandera Town,Kenya,3.934086,41.855199,N,60.4466,Unrelated,0.088398053,0.058812414,-0.007225494,2
+Alamark970,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,46.6858,Unrelated,0.393131462,0.067319348,-0.007515264,7
+Alamark971,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,63.3291,Unrelated,0.385964131,0.065844847,-0.005901751,7
+Alamark972,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,64.8043,Unrelated,0.399226634,0.06721431,-0.007454237,7
+Alamark973,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,57.3535,Unrelated,0.400146536,0.066751468,-0.007269803,7
+Alamark975,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,54.5332,Unrelated,0.405541496,0.066568261,-0.007746388,7
+Alamark976,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,65.0003,Unrelated,0.398893343,0.066727245,-0.008106138,7
+Alamark979,A. mellifera,L,A. m. lamarckii,Assiut,Egypt,27.176417,31.196004,N,66.8935,Unrelated,0.402837029,0.066632149,-0.008138474,7
+Aligui_782,A. mellifera,C,A. m. ligustica,Milano,Italy,45.456836,9.194199,N,61.4661,Unrelated,0.630683495,-0.100902061,0.129381398,6
+Aligui_784,A. mellifera,C,A. m. ligustica,Milano,Italy,45.456836,9.194199,N,52.72,Unrelated,0.631311476,-0.101900461,0.125559627,6
+Aligui_788,A. mellifera,C,A. m. ligustica,Milano,Italy,45.456836,9.194199,N,58.3964,Related,0.644555444,-0.100216516,0.129128093,6
+Aligui_789,A. mellifera,C,A. m. ligustica,Milano,Italy,45.456836,9.194199,N,43.6685,Unrelated,0.65021275,-0.101097293,0.131448009,6
+Aligui_792,A. mellifera,C,A. m. ligustica,Milano,Italy,45.456836,9.194199,N,39.4197,Unrelated,0.648956295,-0.101550945,0.132149664,6
+Aligui_793,A. mellifera,C,A. m. ligustica,Milano,Italy,45.456836,9.194199,N,79.5164,Unrelated,0.660457498,-0.101139003,0.132169104,6
+Amel_470,A. mellifera,M,A. m. mellifera,Ille Sur Tet,France,42.667549,2.621789,N,49.1169,Unrelated,0.623611827,-0.115912723,-0.166340075,4
+Amel_477,A. mellifera,M,A. m. mellifera,Ille Sur Tet,France,42.667549,2.621789,N,43.109,Unrelated,0.634195997,-0.116575751,-0.165693681,4
+Amel_715,A. mellifera,M,A. m. mellifera,Avignon,France,43.944652,4.81007,N,57.0684,Related,0.630947298,-0.117249398,-0.161414621,4
+Amel_716,A. mellifera,M,A. m. mellifera,Avignon,France,43.944652,4.81007,N,47.1023,Unrelated,0.62633112,-0.118337291,-0.162096582,4
+Amel_720,A. mellifera,M,A. m. mellifera,Landes Region,France,44.029985,-0.793121,N,56.9253,Unrelated,0.642079444,-0.118901221,-0.167415513,4
+Amon_k1,A. mellifera,A,A. m. monticola,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,22.8368,Related,0.099913026,0.058648051,-0.007797508,2
+Amont_1,A. mellifera,A,A. m. monticola,Marchorwe,Kenya,-0.243514,35.738985,N,65.0835,Unrelated,0.09734148,0.060914775,-0.006618665,2
+Amont_2,A. mellifera,A,A. m. monticola,Marchorwe,Kenya,-0.243514,35.738985,N,62.025,Unrelated,0.090976536,0.059470912,-0.007456328,2
+Amont_3,A. mellifera,A,A. m. monticola,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,55.1297,Related,0.101286546,0.059361764,-0.009668592,2
+Amont_4,A. mellifera,A,A. m. monticola,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,59.9597,Unrelated,0.097955324,0.061352078,-0.011225707,2
+Amont_5,A. mellifera,A,A. m. monticola,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,56.9674,Related,0.097539783,0.060399318,-0.01066633,2
+Amont_6,A. mellifera,A,A. m. monticola,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,55.7341,Related,0.08889836,0.058630706,-0.006238016,2
+Amont_Ken1,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,10.6817,Unrelated,0.266442215,0.057228773,-0.005144445,2
+Amont_Ken10,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,8.65725,Unrelated,0.261963843,0.053360642,-0.003409406,2
+Amont_Ken11,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,12.4453,Unrelated,0.13361187,0.05663115,-0.007963278,2
+Amont_Ken12,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,9.2131,Unrelated,0.232425759,0.05320596,-0.004141407,2
+Amont_Ken13,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,13.1688,Unrelated,0.159908635,0.059036765,-0.008162429,2
+Amont_Ken14,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,7.43335,Unrelated,0.32614721,0.051655752,-0.001609106,2
+Amont_Ken15,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,11.8626,Unrelated,0.152672619,0.05722927,-0.004764039,2
+Amont_Ken16,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,17.1914,Unrelated,0.142439582,0.060633109,-0.008601972,2
+Amont_Ken17,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,10.1487,Unrelated,0.448675657,0.056694476,-0.005102732,2
+Amont_Ken18,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,10.6354,Unrelated,0.167532426,0.055738841,-0.006166912,2
+Amont_Ken19,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,8.16634,Unrelated,0.27803608,0.053148767,-0.00360294,2
+Amont_Ken2,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,10.2582,Unrelated,0.19260055,0.055596655,-0.005303397,2
+Amont_Ken20,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,10.1677,Unrelated,0.188530001,0.054495305,-0.005737968,2
+Amont_Ken3,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,9.10364,Unrelated,0.230769618,0.051904266,-0.004029297,2
+Amont_Ken4,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,10.4409,Unrelated,0.200610552,0.054832237,-0.006078575,2
+Amont_Ken5,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,14.516,Unrelated,0.144816599,0.059367251,-0.007444676,2
+Amont_Ken6,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,13.9121,Unrelated,0.1391917,0.057872772,-0.006916901,2
+Amont_Ken7,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,9.80964,Unrelated,0.214067203,0.054388396,-0.003552362,2
+Amont_Ken8,A. mellifera,A,A. m. monticola,Mau forest highland,Kenya,-0.5516,35.4782,N,8.91089,Unrelated,0.253277345,0.050929543,-0.002852311,2
+Amont_Ken9,A. mellifera,A,A. m. monticola,Mt Kenya forest highland,Kenya,0.0307,37.5342,N,12.0937,Unrelated,0.172628883,0.057586771,-0.005705642,2
+Anatoli_493,A. mellifera,O,A. m. anatoliaca,Menemen,Turkey,38.606296,27.069033,N,45.5196,Unrelated,0.571449348,-0.030887675,0.134489729,3
+Anatoli_496,A. mellifera,O,A. m. anatoliaca,Meneman,Turkey,38.606296,27.069033,N,69.1061,Unrelated,0.604079191,-0.031513045,0.135320276,3
+Anatoli_498,A. mellifera,O,A. m. anatoliaca,Meneman,Turkey,38.606296,27.069033,N,124.716,Unrelated,0.600537251,-0.03086456,0.13440963,3
+Anatoli_500,A. mellifera,O,A. m. anatoliaca,Fethiye,Turkey,36.655648,29.129076,N,54.6705,Related,0.596995054,-0.030406279,0.131663856,3
+Anatoli_501,A. mellifera,O,A. m. anatoliaca,Fethiye,Turkey,36.655648,29.129076,N,92.8526,Unrelated,0.598203239,-0.030244488,0.134230165,3
+Anatoli_713,A. mellifera,O,A. m. anatoliaca,Fethiye,Turkey,36.655648,29.129076,N,74.7959,Unrelated,0.611518071,-0.030639175,0.13456666,3
+Anatoli_714,A. mellifera,O,A. m. anatoliaca,Fethiye,Turkey,36.655648,29.129076,N,71.5175,Unrelated,0.602775832,-0.030380333,0.133678981,3
+Ascu_A1,A. mellifera,A,A. m. scutellata,Marchorwe,Kenya,-0.243514,35.738985,N,59.3251,Related,0.098007252,0.060339678,-0.009452435,2
+Ascu_A10,A. mellifera,A,A. m. scutellata,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,56.2404,Unrelated,0.109168747,0.061993055,-0.009049986,2
+Ascu_A11,A. mellifera,A,A. m. scutellata,"Mt. Elgon, Moorland",Kenya,1.025138,34.53827,N,61.3213,Unrelated,0.090463687,0.059225986,-0.009672358,2
+Ascu_A2,A. mellifera,A,A. m. scutellata,Marchorwe,Kenya,-0.243514,35.738985,N,57.9997,Unrelated,0.088881099,0.060329596,-0.007972574,2
+Ascu_A3,A. mellifera,A,A. m. scutellata,Malewa,Kenya,-0.698225,36.36946,N,60.3425,Unrelated,0.102497688,0.059383338,-0.007260817,2
+Ascu_A4,A. mellifera,A,A. m. scutellata,Malewa,Kenya,-0.698225,36.36946,N,57.5492,Unrelated,0.087535992,0.05854617,-0.00689521,2
+Ascu_A5,A. mellifera,A,A. m. scutellata,Malewa,Kenya,-0.698225,36.36946,N,64.2577,Unrelated,0.087192317,0.058415842,-0.007789242,2
+Ascu_A6,A. mellifera,A,A. m. scutellata,Gede Ruins,Kenya,-3.311134,40.017936,N,57.6673,Unrelated,0.095228028,0.057354052,-0.005845454,2
+Ascu_A7,A. mellifera,A,A. m. scutellata,Mandera West,Kenya,3.934086,41.855199,N,63.0326,Related,0.089892303,0.058431212,-0.006350717,2
+Ascu_A8,A. mellifera,A,A. m. scutellata,Mandera West,Kenya,3.934086,41.855199,N,57.4824,Related,0.084491742,0.059223798,-0.006573621,2
+Ascu_A9,A. mellifera,A,A. m. scutellata,Mandera West,Kenya,3.934086,41.855199,N,56.3165,Unrelated,0.083018711,0.060315487,-0.006678206,2
+Ascu_B1,A. mellifera,A,A. m. scutellata,Marchorwe,Kenya,-0.243514,35.738985,N,60.6821,Unrelated,0.096898537,0.061605645,-0.009441512,2
+Ascu_B5,A. mellifera,A,A. m. scutellata,Ichiara,Kenya,-0.453095,37.782025,N,58.8559,Unrelated,0.083886813,0.059266373,-0.007257351,2
+Ascu_B6,A. mellifera,A,A. m. scutellata,Gede Ruins,Kenya,-3.311134,40.017936,N,59.4777,Unrelated,0.087064603,0.060414517,-0.007348489,2
+Ascu_B7,A. mellifera,A,A. m. scutellata,,Tanzania,-7.092944,35.115032,N,59.6981,Unrelated,0.096206483,0.056202533,-0.007149526,2
+Ascu_B8,A. mellifera,A,A. m. scutellata,,Tanzania,-7.092944,35.115032,N,68.4871,Unrelated,0.085625693,0.05875999,-0.007989152,2
+Ascu_B9,A. mellifera,A,A. m. scutellata,,Tanzania,-7.092944,35.115032,N,64.8674,Unrelated,0.074270357,0.057898436,-0.007696391,2
+Ascu_Bot2,A. mellifera,A,A. m. scutellata,Gaborone,Botswana,-24.72029,25.937353,N,55.871,Unrelated,0.091763741,0.056926456,-0.005760985,2
+Ascu_k6,A. mellifera,A,A. m. scutellata,"Mt. Elgon, Chepkui",Kenya,1.068589,34.684871,N,20.0884,Unrelated,0.076018012,0.057134177,-0.008252786,2
+Ascu_Ken1,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,9.82748,Unrelated,0.191582298,0.054711166,-0.003795347,2
+Ascu_Ken10,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,8.00577,Unrelated,0.284244481,0.050750977,-0.002683934,2
+Ascu_Ken11,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,8.80434,Unrelated,0.238800778,0.052152386,-0.003064539,2
+Ascu_Ken12,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,12.8782,Unrelated,0.130545292,0.056458687,-0.008867841,2
+Ascu_Ken13,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,9.89727,Unrelated,0.184906295,0.055421421,-0.004568098,2
+Ascu_Ken14,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,15.795,Unrelated,0.1069565,0.060297419,-0.006688688,2
+Ascu_Ken15,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,10.5057,Unrelated,0.176877155,0.05519341,-0.004959524,2
+Ascu_Ken16,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,12.2628,Unrelated,0.142577796,0.056871936,-0.006273508,2
+Ascu_Ken17,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,6.11946,Unrelated,0.391138846,0.044203943,3.89E-04,7
+Ascu_Ken18,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,9.13805,Unrelated,0.243260956,0.052000486,-0.00338674,2
+Ascu_Ken19,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,14.6713,Unrelated,0.119816825,0.057704814,-0.006798881,2
+Ascu_Ken2,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,13.7097,Unrelated,0.127776464,0.057389401,-0.00671892,2
+Ascu_Ken3,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,10.6817,Unrelated,0.174280909,0.057395577,-0.005763046,2
+Ascu_Ken5,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,10.079,Unrelated,0.17850205,0.053026991,-0.005531603,2
+Ascu_Ken6,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,9.21161,Unrelated,0.204722217,0.054373637,-0.004282647,2
+Ascu_Ken7,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,9.26169,Unrelated,0.215680889,0.052651448,-0.004733816,2
+Ascu_Ken8,A. mellifera,A,A. m. scutellata,Mau savannah lowland,Kenya,-0.9517,35.4536,N,12.6608,Unrelated,0.145083593,0.055520613,-0.006046492,2
+Ascu_Ken9,A. mellifera,A,A. m. scutellata,Mt Kenya savannah lowland,Kenya,0.0881,38.19,N,9.42593,Unrelated,0.234623695,0.052678369,-0.003498479,2
+Ascu_lamark1,A. mellifera,A,A. m. scutellata,Mandera Town,Kenya,3.934086,41.855199,N,59.3061,Related,0.10983266,0.058205478,-0.006042758,2
+Ascu_lamark2,A. mellifera,A,A. m. scutellata,Mandera Town,Kenya,3.934086,41.855199,N,64.7494,Related,0.108395454,0.05535872,-0.005644346,2
+Ascu_lamark3,A. mellifera,A,A. m. scutellata,Mandera Town,Kenya,3.934086,41.855199,N,62.8317,Unrelated,0.105577691,0.056536455,-0.005371381,2
+Ascu_litZim1,A. mellifera,A,A. m. scutellata,Harare,Zimbabwe,-17.859502,31.055411,N,57.1766,Unrelated,0.084901862,0.05854532,-0.007921383,2
+Ascu_litZim3,A. mellifera,A,A. m. scutellata,Harare,Zimbabwe,-17.859502,31.055411,N,56.3474,Unrelated,0.090356435,0.06012644,-0.007429892,2
+Asim_yem2,A. mellifera,A,A. m. scutellata,Mandera West,Kenya,3.934086,41.855199,N,60.1154,Unrelated,0.092742634,0.059384198,-0.006708353,2
+Asim_yem3,A. mellifera,A,A. m. scutellata,Mandera West,Kenya,3.934086,41.855199,N,58.7044,Related,0.091149943,0.057928964,-0.006255551,2
+Asim_yem6,A. mellifera,A,A. m. monticola,Mandera West,Kenya,3.934086,41.855199,N,55.5599,Unrelated,0.10287649,0.060689337,-0.010280424,2
+Asini_c1,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,6.59939,Unrelated,0.695812826,-0.128023331,-0.100012294,4
+Asini_c10,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,5.73375,Unrelated,0.64333282,-0.12316306,-0.067425205,4
+Asini_c2,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,8.79189,Unrelated,0.582380504,-0.125399203,-0.097268425,4
+Asini_c3,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,6.54191,Unrelated,0.677423065,-0.125975856,-0.095708421,4
+Asini_c4,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,6.15888,Unrelated,0.740201365,-0.125837709,-0.090015924,4
+Asini_c5,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,7.34326,Unrelated,0.566451214,-0.12494684,-0.077008001,4
+Asini_c6,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,5.68031,Unrelated,0.688050601,-0.125080281,-0.078203338,4
+Asini_c7,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,6.42329,Unrelated,0.598591077,-0.124150804,-0.069397816,4
+Asini_c8,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,6.54495,Unrelated,0.723659281,-0.127998969,-0.099201945,4
+Asini_c9,A. mellifera,M,A. m. sinisxinyuan,Xinyuan,China,43.380623,83.482369,N,5.91094,Unrelated,0.642596499,-0.124885337,-0.07443764,4
+Auni_mad10,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,19.982,Unrelated,0.552220471,0.074378071,-0.007323395,7
+Auni_mad11,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,23.6741,Unrelated,0.575083438,0.071142606,-0.006380535,7
+Auni_mad12,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,22.6416,Unrelated,0.559599044,0.073859787,-0.008377121,7
+Auni_mad13,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,57.9356,Unrelated,0.565461301,0.075924707,-0.008638961,7
+Auni_mad14,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,59.4136,Unrelated,0.552873835,0.075843175,-0.008839931,7
+Auni_mad15,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,65.3965,Unrelated,0.570594545,0.075310995,-0.008365188,7
+Auni_mad17,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,43.7314,Unrelated,0.56329923,0.075424639,-0.008749928,7
+Auni_mad18,A. mellifera,U,A. m. unicolor,,Madagascar,-20.058857,46.354459,N,66.8431,Unrelated,0.545650926,0.075791899,-0.008209817,7
+Ayem_eth1,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,57.7399,Related,0.095757398,0.057549338,-0.006797782,2
+Ayem_eth10,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,50.0938,Related,0.096408739,0.056244012,-0.006945814,2
+Ayem_eth3,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,55.3905,Related,0.10493343,0.055215764,-0.004696528,2
+Ayem_eth4,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,68.441,Unrelated,0.087622805,0.058419751,-0.006058316,2
+Ayem_eth7,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,62.3133,Related,0.103100835,0.053940735,-0.005108973,2
+Ayem_eth8,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,69.2614,Related,0.10511018,0.057084055,-0.00634836,2
+Ayem_eth9,A. mellifera,A,A. m. scutellata,Daba,Ethiopia,9.152086,38.003899,N,57.2796,Related,0.086830564,0.058159307,-0.007359489,2
+BG2000_A,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,20.4229,Unrelated,0.061057619,-0.036293753,0.027960997,8
+BG2000_B,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,19.343,Related,0.066651949,-0.034884184,0.029212359,8
+BG2000_C,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,16.7428,Related,0.053230178,-0.035894096,0.028448057,8
+c181,A. mellifera,C,A. m. carnica,North Rhine-Westphalia,Germany,51.15014,6.738865,N,27.0303,Unrelated,0.574203362,-0.102184816,0.112706954,6
+c182,A. mellifera,C,A. m. carnica,North Rhine-Westphalia,Germany,51.15014,6.738865,N,26.0376,Unrelated,0.623327971,-0.10151378,0.123732715,6
+c195,A. mellifera,C,A. m. carnica,"Novalija, Pag Island",Croatia,44.552708,14.887621,N,26.0031,Unrelated,0.706007497,-0.099328634,0.140444297,6
+c196,A. mellifera,C,A. m. carnica,"Komorovac, Pag Island",Croatia,44.56642,14.934706,N,26.4525,Unrelated,0.704323637,-0.09822661,0.141677367,6
+c199,A. mellifera,C,A. m. carnica,Baric Draga,Croatia,44.373326,15.275948,N,27.2528,Unrelated,0.71609883,-0.098385683,0.143723155,6
+c200,A. mellifera,C,A. m. carnica,Sugarje,Croatia,44.438022,15.199842,N,24.9513,Unrelated,0.715187153,-0.099074154,0.14534363,6
+c235,A. mellifera,C,A. m. carnica,,Slovenia,46.015913,14.490188,N,26.5404,Unrelated,0.700048372,-0.100442346,0.139596183,6
+c236,A. mellifera,C,A. m. carnica,,Slovenia,46.015913,14.490188,N,24.8971,Unrelated,0.709373524,-0.101197272,0.139312836,6
+c273,A. mellifera,C,A. m. carnica,,Slovenia,46.015913,14.490188,N,27.8178,Unrelated,0.701436878,-0.100367709,0.139982382,6
+CostaRica_HB_01,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,21.0359,Related,0.052580704,0.020708517,-0.016304581,9
+CostaRica_HB_02,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,21.4196,Unrelated,0.067360434,0.018759172,-0.024267293,9
+CostaRica_HB_03,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,24.2403,Unrelated,0.052917783,0.01650142,-0.020487002,9
+CostaRica_HB_04,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,20.552,Related,0.063646708,0.015689194,-0.014718791,9
+CostaRica_HB_05,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,24.5529,Related,0.054559042,0.017290521,-0.022651344,9
+CostaRica_HB_06,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,23.7003,Related,0.065401842,0.017537564,-0.019168985,9
+CostaRica_HB_07,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,20.2327,Related,0.056478688,0.014692784,-0.023324769,9
+CostaRica_HB_08,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,20.8051,Related,0.070970392,0.021655029,-0.01668359,9
+CostaRica_HB_09,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,25.2451,Unrelated,0.052115579,0.018749857,-0.020381659,9
+CostaRica_HB_10,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,12.6473,Related,0.082455015,0.017046697,-0.016814724,9
+CostaRica_HB_11,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,23.3206,Related,0.064938601,0.020730613,-0.017247388,9
+CostaRica_HB_12,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,20.6178,Unrelated,0.053024858,0.015000989,-0.021060109,9
+CostaRica_HB_13,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,22.9744,Related,0.051017187,0.011046286,-0.024530843,9
+CostaRica_HB_14,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,22.86,Unrelated,0.065035021,0.017555418,-0.022315835,9
+CostaRica_HB_15,A. mellifera,Meso,Costa Rica-Zarate,Santa Rosa,Costa Rica,10.8379,-85.7051,Y,23.8875,Related,0.063997866,0.020511663,-0.016869258,9
+ECR_32_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,13.8166,Related,0.153797808,-0.051903092,0.028344393,8
+ECR_32_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,14.7419,Unrelated,0.143526115,-0.051694522,0.035801329,8
+ECR_32_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,13.7755,Related,0.158047194,-0.052627392,0.033333177,8
+ECR_33_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,24.5237,Unrelated,0.04182194,-0.041989794,0.020592829,8
+ECR_33_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,17.7378,Related,0.07204027,-0.037350721,0.017733595,8
+ECR_33_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.6074,Related,0.106806392,-0.039643273,0.024231322,8
+ECR_34_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,16.5489,Related,0.074270142,-0.042144458,0.027058635,8
+ECR_34_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,19.6199,Related,0.072269562,-0.042603617,0.032912962,8
+ECR_34_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,22.2204,Unrelated,0.141643876,-0.044615393,0.032544309,8
+ECR_35_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,14.4559,Related,0.138551438,-0.047883069,0.024175304,8
+ECR_35_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,16.4591,Unrelated,0.081880702,-0.041337694,0.027473412,8
+ECR_35_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,13.7605,Related,0.114357821,-0.036926912,0.022329766,8
+ECR_37_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.9525,Related,0.128353963,-0.043248006,0.025958759,8
+ECR_37_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.4156,Related,0.109931975,-0.041197387,0.026568536,8
+ECR_37_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,16.1875,Unrelated,0.092822505,-0.038212533,0.026357412,8
+ECR_39_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,12.5528,Related,0.162657538,-0.051710842,0.032498455,8
+ECR_39_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.0466,Related,0.139953792,-0.055150149,0.035526871,8
+ECR_39_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,18.7018,Unrelated,0.120131378,-0.050138661,0.034483819,8
+ECR_4_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,16.543,Related,0.120116841,-0.044662712,0.022792394,8
+ECR_4_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,16.5251,Unrelated,0.105692661,-0.044517714,0.029082618,8
+ECR_4_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,18.241,Related,0.083597481,-0.043905156,0.021518831,8
+ECR_40_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,16.3473,Related,0.098472109,-0.041085519,0.019674545,8
+ECR_40_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,12.1486,Unrelated,0.222783208,-0.04678587,0.027121516,8
+ECR_40_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,19.7119,Unrelated,0.089290313,-0.045030632,0.019027257,8
+ECR_42_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.2278,Related,0.128455268,-0.047118359,0.030146404,8
+ECR_42_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,12.2766,Unrelated,0.207750273,-0.052215713,0.031593027,8
+ECR_42_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,17.8331,Unrelated,0.100259335,-0.047758824,0.025230978,8
+ECR_44_1,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,13.9223,Unrelated,0.114290202,-0.042530764,0.024856468,8
+ECR_44_2,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.5803,Related,0.110982533,-0.043236671,0.026806698,8
+ECR_44_3,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.895278,-117.086934,Y,15.6912,Related,0.12427415,-0.035544435,0.023306063,8
+J1000_A,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,18.5127,Related,0.053576931,-0.04336498,0.032081026,8
+J1000_B,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,17.8874,Unrelated,0.21343224,-0.078310317,0.07672408,1
+J1000_C,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,25.7633,Related,0.05193042,-0.052152053,0.043465556,8
+m207,A. mellifera,M,A. m. mellifera,Zalewo,Poland,53.849567,19.602569,N,27.445,Unrelated,0.610568987,-0.122617099,-0.121082175,4
+m217,A. mellifera,M,A. m. mellifera,Rudawka,Poland,49.706097,22.448235,N,28.0376,Unrelated,0.587259557,-0.121090365,-0.114127597,4
+m218,A. mellifera,M,A. m. mellifera,Rudawka,Poland,49.706097,22.448235,N,22.9599,Unrelated,0.589904244,-0.119398499,-0.105417682,4
+m226,A. mellifera,M,A. m. mellifera,Sucha Rzeczka,Poland,53.891148,23.191946,N,23.0839,Unrelated,0.667400301,-0.123870855,-0.121449473,4
+m227,A. mellifera,M,A. m. mellifera,Sucha Rzeczka,Poland,53.891148,23.191946,N,25.1248,Unrelated,0.579472087,-0.12061404,-0.106460374,4
+m233,A. mellifera,M,A. m. iberiensis,Cordoba,Spain,37.887723,-4.77964,N,22.3354,Unrelated,0.670746882,-0.112005532,-0.132937824,4
+m234,A. mellifera,M,A. m. iberiensis,Murcia,Spain,37.985883,-1.132087,N,19.1374,Related,0.687301273,-0.114180985,-0.130434167,4
+m248,A. mellifera,M,A. m. iberiensis,Murcia,Spain,37.985883,-1.132087,N,26.0918,Unrelated,0.664571865,-0.114880153,-0.134930217,4
+m256,A. mellifera,M,A. m. iberiensis,Cordoba,Spain,37.887723,-4.77964,N,23.9015,Unrelated,0.662704118,-0.11301184,-0.133822471,4
+Mexico_Honeybee_001,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,33.2765,Unrelated,0.066813106,3.04E-04,-0.013279899,9
+Mexico_Honeybee_002,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,28.7789,Unrelated,0.061393001,0.012388418,-0.02205771,9
+Mexico_Honeybee_003,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,28.3862,Unrelated,0.067766969,0.013458701,-0.019417064,9
+Mexico_Honeybee_004,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,37.679,Unrelated,0.054688254,0.014529838,-0.024970888,9
+Mexico_Honeybee_005,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,31.2237,Unrelated,0.044619063,0.010384145,-0.019268079,9
+Mexico_Honeybee_006,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,31.9667,Unrelated,0.0462824,0.01646772,-0.014498955,9
+Mexico_Honeybee_007,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,35.393,Unrelated,0.049720489,0.004206494,-0.018242303,9
+Mexico_Honeybee_008,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,38.6399,Unrelated,0.032958535,0.010582669,-0.006885995,9
+Mexico_Honeybee_009,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,37.9483,Unrelated,0.043489328,0.00979931,-0.025983513,9
+Mexico_Honeybee_010,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,58.9685,Unrelated,0.05425793,3.99E-04,-0.023856518,9
+Mexico_Honeybee_011,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,34.336,Unrelated,0.051347434,0.009127507,-0.015990503,9
+Mexico_Honeybee_012,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,71.7351,Unrelated,0.058664104,0.013492321,-0.017985621,9
+Mexico_Honeybee_013,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,29.0805,Unrelated,0.134310576,-0.003353153,-0.003175739,9
+Mexico_Honeybee_014,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,29.5008,Unrelated,0.110931921,-0.003390797,-0.012702907,9
+Mexico_Honeybee_015,A. mellifera,Meso,Mexico-Zarate,Chiapas,Mexico,16.7569,-93.1292,Y,16.7306,Unrelated,0.230661609,-0.00982342,-0.01044113,9
+o341,A. mellifera,Y,A. m. jemenitica,Riyah,Saudi Arabia,24.706291,46.78654,N,24.939,Unrelated,0.722359785,0.024289441,0.036737864,7
+o342,A. mellifera,Y,A. m. jemenitica,Riyah,Saudi Arabia,24.706291,46.78654,N,23.5813,Unrelated,0.727648652,0.023746496,0.036804587,7
+o343,A. mellifera,Y,A. m. jemenitica,Riyah,Saudi Arabia,24.706291,46.78654,N,24.5368,Unrelated,0.724396115,0.024375865,0.036250369,7
+o344,A. mellifera,Y,A. m. jemenitica,Riyah,Saudi Arabia,24.706291,46.78654,N,24.6707,Unrelated,0.727823978,0.024535255,0.036483546,7
+o345,A. mellifera,Y,A. m. jemenitica,Riyah,Saudi Arabia,24.706291,46.78654,N,23.5158,Unrelated,0.734862594,0.024146625,0.036647384,7
+o346,A. mellifera,Y,A. m. jemenitica,Riyah,Saudi Arabia,24.706291,46.78654,N,24.5363,Unrelated,0.719651867,0.02400027,0.036599385,7
+o347,A. mellifera,Y,A. m. jemenitica,Sanaa,Yemen,15.380336,44.208515,N,23.5394,Unrelated,0.729819004,0.02388486,0.036687602,7
+o348,A. mellifera,Y,A. m. jemenitica,Sanaa,Yemen,15.380336,44.208515,N,22.1875,Unrelated,0.62225066,0.022398096,0.036615142,7
+o349,A. mellifera,Y,A. m. jemenitica,Sanaa,Yemen,15.380336,44.208515,N,19.9153,Unrelated,0.720475116,0.023302155,0.03638792,7
+Panama_HB_01,A. mellifera,Meso,Panama-Zarate,Panama City,Panama,8.9824,-79.5199,Y,17.0952,Unrelated,0.08844842,0.027420214,-0.026994415,9
+Panama_HB_02,A. mellifera,Meso,Panama-Zarate,Panama City,Panama,8.9824,-79.5199,Y,21.9791,Related,0.09386041,0.024945121,-0.027237353,9
+Panama_HB_03,A. mellifera,Meso,Panama-Zarate,Panama City,Panama,8.9824,-79.5199,Y,21.8321,Related,0.078638106,0.025619466,-0.025807529,9
+Panama_HB_04,A. mellifera,Meso,Panama-Zarate,Gamboa,Panama,9.1165,-79.6965,Y,22.859,Related,0.075095483,0.025015605,-0.028157296,9
+Panama_HB_05,A. mellifera,Meso,Panama-Zarate,Gamboa,Panama,9.1165,-79.6965,Y,20.5312,Related,0.073907805,0.023508096,-0.028049165,9
+Panama_HB_06,A. mellifera,Meso,Panama-Zarate,Gamboa,Panama,9.1165,-79.6965,Y,21.3256,Unrelated,0.075452352,0.027252625,-0.027827114,9
+Panama_HB_07,A. mellifera,Meso,Panama-Zarate,BCI,Panama,9.1521,-79.8465,Y,21.3084,Related,0.069491194,0.030771125,-0.023968031,9
+Panama_HB_08,A. mellifera,Meso,Panama-Zarate,BCI,Panama,9.1521,-79.8465,Y,19.8261,Unrelated,0.072163416,0.02968625,-0.025515941,9
+Panama_HB_09,A. mellifera,Meso,Panama-Zarate,BCI,Panama,9.1521,-79.8465,Y,24.0643,Unrelated,0.090053155,0.028009698,-0.027253916,9
+Panama_HB_10,A. mellifera,Meso,Panama-Zarate,Gatun,Panama,9.1921,-79.9081,Y,18.0027,Unrelated,0.087218906,0.028375193,-0.026848992,9
+Panama_HB_11,A. mellifera,Meso,Panama-Zarate,Gatun,Panama,9.1921,-79.9081,Y,20.4233,Related,0.064497578,0.027848302,-0.025562579,9
+Panama_HB_12,A. mellifera,Meso,Panama-Zarate,Gatun,Panama,9.1921,-79.9081,Y,19.6968,Unrelated,0.074217212,0.030538457,-0.025035727,9
+Panama_HB_13,A. mellifera,Meso,Panama-Zarate,Santa Rita Arriba,Panama,9.3255,-79.7904,Y,26.514,Related,0.077435198,0.028557556,-0.024782236,9
+Panama_HB_14,A. mellifera,Meso,Panama-Zarate,Santa Rita Arriba,Panama,9.3255,-79.7904,Y,24.7376,Related,0.06654092,0.027050879,-0.028213731,9
+Panama_HB_15,A. mellifera,Meso,Panama-Zarate,Santa Rita Arriba,Panama,9.3255,-79.7904,Y,21.0871,Related,0.071945337,0.028025684,-0.025523919,9
+R1000_A,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,16.3526,Related,0.071355395,-0.039693463,0.023850033,8
+R1000_B,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,17.6366,Related,0.031780977,-0.036307774,0.019363706,8
+R1000_C,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,16.3696,Related,0.043296597,-0.03501736,0.023132506,8
+RO12_A,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,19.6568,Unrelated,0.307457672,-0.090065824,0.089871997,1
+RO12_B,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,18.6122,Related,0.321711614,-0.090308913,0.091221268,1
+RO12_C,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,18.1146,Related,0.304757496,-0.090535171,0.087650332,1
+RO13_A,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,20.1268,Unrelated,0.358669656,-0.092347391,0.093811633,1
+RO13_B,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,19.4246,Related,0.347667598,-0.091662695,0.092568178,1
+RO13_C,A. mellifera,NorCal,NorCal-This-Study,Northern CA,U.S.A,36.875728,-121.722275,Y,17.938,Related,0.369227928,-0.090260168,0.088799148,1
+RT1002_A,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,19.4096,Related,0.052212786,-0.0411006,0.024611269,8
+RT1002_B,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,19.8872,Related,0.052203831,-0.036230478,0.030303344,8
+RT1002_C,A. mellifera,SoCal,SoCal-This-Study,California,U.S.A,33.964025,-117.341792,Y,19.6863,Unrelated,0.037116694,-0.039395238,0.024476673,8
+s279,A. mellifera,A,A. m. scutellata,East Cape,South Africa,-32.573961,27.260428,N,26.5614,Unrelated,0.221284743,0.03910529,0.005460535,7
+s280,A. mellifera,A,A. m. scutellata,East Cape,South Africa,-32.573961,27.260428,N,27.0159,Unrelated,0.218604092,0.038629581,0.005282088,7
+s284,A. mellifera,A,A. m. scutellata,NW. Cape,South Africa,-29.639122,17.905532,N,23.7378,Unrelated,0.211086141,0.039108795,0.004868658,7
+s285,A. mellifera,A,A. m. scutellata,N. Cape,South Africa,-29.180306,21.825367,N,25.2466,Unrelated,0.228663028,0.037878699,0.00513869,7
+s286,A. mellifera,A,A. m. scutellata,NW. Cape,South Africa,-29.639122,17.905532,N,26.9436,Unrelated,0.211126554,0.038704413,0.004583162,7
+s290,A. mellifera,A,A. m. scutellata,West Cape,South Africa,-33.304083,21.886722,N,26.8263,Unrelated,0.231124216,0.039825641,0.005387571,7
+s296,A. mellifera,A,A. m. scutellata,Freestate,South Africa,-28.578868,26.425587,N,25.6918,Unrelated,0.230275326,0.037816649,0.006172717,7
+s299,A. mellifera,A,A. m. scutellata,N/NW Cape,South Africa,-29.180306,21.825367,N,26.1704,Unrelated,0.22009222,0.03825903,0.005090005,7
+s300,A. mellifera,A,A. m. scutellata,NW. Cape,South Africa,-29.639122,17.905532,N,26.7826,Unrelated,0.2165585,0.039513608,0.005835103,7
+s301,A. mellifera,A,A. m. scutellata,East Cape,South Africa,-32.573961,27.260428,N,27.1979,Unrelated,0.227223968,0.039318478,0.004804659,7
+s302,A. mellifera,A,A. m. scutellata,East Cape,South Africa,-32.573961,27.260428,N,27.2912,Unrelated,0.226653844,0.039140756,0.005312589,7
+San_Diego_Honeybee_001,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,33.1201937,-116.785454,Y,35.112,Unrelated,0.068287251,-0.04603345,0.031270843,8
+San_Diego_Honeybee_002,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,33.0953759,-116.8309861,Y,41.6375,Unrelated,0.070760767,-0.043742704,0.025649584,8
+San_Diego_Honeybee_003,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,33.0940448,-117.0007862,Y,25.8422,Unrelated,0.05902375,-0.058719828,0.053277247,1
+San_Diego_Honeybee_004,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,33.0648804,-117.0816544,Y,31.0794,Unrelated,0.051234401,-0.044307702,0.024154437,8
+San_Diego_Honeybee_005,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.8772464,-117.2467729,Y,40.0565,Unrelated,0.06024546,-0.046209254,0.027713853,8
+San_Diego_Honeybee_006,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.9503884,-117.132764,Y,29.4855,Unrelated,0.081082443,-0.041058111,0.026200067,8
+San_Diego_Honeybee_007,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.9330022,-116.9668143,Y,32.9365,Unrelated,0.05726788,-0.048047416,0.029647536,8
+San_Diego_Honeybee_008,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.8612775,-116.8994291,Y,37.3279,Unrelated,0.115197825,-0.04952529,0.035718579,8
+San_Diego_Honeybee_009,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.9354869,-116.8679694,Y,29.6499,Unrelated,0.047105685,-0.034605004,0.027426423,8
+San_Diego_Honeybee_010,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.9834077,-116.8317571,Y,31.1276,Unrelated,0.040218927,-0.034661295,0.015804102,8
+San_Diego_Honeybee_011,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.758286,-117.197928,Y,23.5,Unrelated,0.06558056,-0.03928037,0.019180347,8
+San_Diego_Honeybee_012,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,33.34228,-117.811212,Y,28.0007,Unrelated,0.047143476,-0.044677934,0.023242723,8
+San_Diego_Honeybee_013,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.678109,-117.041976,Y,28.3576,Unrelated,0.059178187,-0.04976026,0.020700369,8
+San_Diego_Honeybee_015,A. mellifera,SoCal,SoCal-Zarate,California,U.S.A,32.767829,-117.023084,Y,20.6383,Unrelated,0.099684626,-0.048203313,0.019522171,8
+Acern_AK09,A. cerana,Outgroup,A. cerana,"Ankang, Shanxi",China,33.51,108.37,N,,,,,,
+Acern_DQ03,A. cerana,Outgroup,A. cerana,"Diqing, Yunnan",China,28.2,99.27,N,,,,,,
+Acern_GY03,A. cerana,Outgroup,A. cerana,"Guyuan, Ningxia",China,35.67,106.33,N,,,,,,
+Acern_HC07,A. cerana,Outgroup,A. cerana,"Hechi, Guangxi",China,24.69,108.09,N,,,,,,
+Acern_HK01,A. cerana,Outgroup,A. cerana,"Haikou, Hainan",China,19.98,110.33,N,,,,,,
+Acern_ME03,A. cerana,Outgroup,A. cerana,"Maerkang, Sichuan",China,31.54,102.17,N,,,,,,
+Acern_MX05,A. cerana,Outgroup,A. cerana,"Minxian, Gansu",China,34.51,104.06,N,,,,,,
+Acern_MY02,A. cerana,Outgroup,A. cerana,"Mengyin, Shandong",China,35.65,117.92,N,,,,,,
+Acern_NY03,A. cerana,Outgroup,A. cerana,"Nayong, Guizhou",China,26.83,105.47,N,,,,,,
+Acern_QY09,A. cerana,Outgroup,A. cerana,"Qingyuan, Liaoning",China,40.24,119.75,N,,,,,,
+Acern_SJ06,A. cerana,Outgroup,A. cerana,"Shennongjia, Hubei",China,31.64,110.43,N,,,,,,
+Acern_SN10,A. cerana,Outgroup,A. cerana,"Suining, Sichuan",China,30.76,105.56,N,,,,,,
+Acern_XS10,A. cerana,Outgroup,A. cerana,"Xishuangbanna, Yunnan",China,21.93,101.26,N,,,,,,
+Acern_YL01,A. cerana,Outgroup,A. cerana,"Yulin, Shanxi",China,37.57,108.53,N,,,,,,
+Acern_ZZ07,A. cerana,Outgroup,A. cerana,"Zhangzhou, Fujian",China,24.51,117.65,N,,,,,,
