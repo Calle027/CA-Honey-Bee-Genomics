@@ -7,6 +7,9 @@ This repository is organized so that shared metadata, sample filtering, LD-prune
 ## Repository Structure
 
 ```text
+preprocessing/
+  genomics_preprocessing.sh        # FASTQ-to-VCF/GDS preprocessing workflow
+
 honeybee_scripts/
   00_config.R                     # Shared paths, metadata, colors, helpers, sample map
   00_create_essential_objects.R   # LD pruning, pruned SNP table, KING/IBS0 objects
@@ -22,7 +25,7 @@ analysis_outputs/                 # Generated tables and cached R objects
 figures/                          # Generated figures
 ```
 
-The original exploratory script, `genomics.R`, is retained as a reference while the modular scripts become the reproducible workflow.
+The preprocessing script documents how raw sequencing files are converted into the VCF, GDS, and coverage inputs used by the R workflow. The original exploratory script, `genomics.R`, is retained as a reference while the modular scripts become the reproducible workflow.
 
 ## Required Inputs
 
