@@ -25,7 +25,7 @@ analysis_outputs/                 # Generated tables and cached R objects
 figures/                          # Generated figures
 ```
 
-The preprocessing script documents how raw sequencing files are converted into the VCF, GDS, and coverage inputs used by the R workflow. The original exploratory script, `genomics.R`, is retained as a reference while the modular scripts become the reproducible workflow.
+The preprocessing script documents how raw sequencing files are converted into the VCF, GDS, and coverage inputs used by the R workflow.
 
 ## Required Inputs
 
@@ -37,8 +37,6 @@ The scripts currently expect these files in the project root:
 - `admixture_input.7.Q`, for the ADMIXTURE-annotated tree
 - `*_maf05.windowed.pi` files, for nucleotide diversity
 - `genome_coverage.tsv`, for the manuscript sample metadata table
-
-Large genomic inputs and generated outputs should generally not be committed to GitHub unless there is a specific reason to publish them.
 
 ## Running The Analysis In RStudio
 
